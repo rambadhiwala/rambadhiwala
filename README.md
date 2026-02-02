@@ -4,8 +4,8 @@
 
 📍 NC, USA  
 📧 [Email](mailto:rambadh42@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ram-badhiwala/)  
-💻 [GitHub](https://github.com/ram-badhiwala)
+🔗 [LinkedIn](https://www.linkedin.com/in/rambadhiwala/)  
+💻 [GitHub](https://github.com/rambadhiwala)
 
 ---
 
