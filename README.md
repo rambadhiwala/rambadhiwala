@@ -3,7 +3,7 @@
 **SOC Analyst | Incident Response | Threat Detection | SIEM & EDR**
 
 📍 NC, USA  
-📧 [Email](mailto:rambadh42@gmail.com)  
+📧 [rambadhiwala42@gmail.com](mailto:rambadh42@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rambadhiwala/)  
 💻 [GitHub](https://github.com/rambadhiwala)
 
